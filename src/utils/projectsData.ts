@@ -33,7 +33,7 @@ export const projects: Project[] = [
   {
     id: 1,
     title: "Film Booking System",
-    description: "A comprehensive cinema ticket booking system with real-time seat selection and payment processing.",
+    description: "Real-time cinema ticket booking system with seat selection and payment processing.",
     category: "java",
     technologies: ["Java", "Spring Boot", "MySQL", "Hibernate", "RESTful API"],
     icon: Film,
@@ -55,7 +55,7 @@ export const projects: Project[] = [
   {
     id: 3,
     title: "Insta Clone API",
-    description: "Backend API for Instagram-like social media application with user authentication and image sharing.",
+    description: "Instagram-like social media API with user authentication and image sharing.",
     category: "java",
     technologies: ["Java", "Spring Security", "PostgreSQL", "AWS S3", "JWT"],
     icon: Camera,
@@ -66,7 +66,7 @@ export const projects: Project[] = [
   {
     id: 4,
     title: "Courier Management System",
-    description: "End-to-end logistics tracking system for packages with real-time delivery updates.",
+    description: "Real-time logistics tracking system with package delivery updates.",
     category: "java",
     technologies: ["Java", "Spring Boot", "MySQL", "RabbitMQ", "Redis"],
     icon: Package,
@@ -77,7 +77,7 @@ export const projects: Project[] = [
   {
     id: 5,
     title: "E-commerce API",
-    description: "Full-featured e-commerce backend with product management, cart functionality, and order processing.",
+    description: "E-commerce backend with product management, cart, and order processing.",
     category: "java",
     technologies: ["Java", "Spring Boot", "MongoDB", "Elasticsearch", "Payment Gateway Integration"],
     icon: ShoppingCart,
@@ -90,7 +90,7 @@ export const projects: Project[] = [
   {
     id: 6,
     title: "Task Management System",
-    description: "Collaborative task management platform with real-time updates and team workflow optimization.",
+    description: "Real-time task management platform with team workflow optimization.",
     category: "mern",
     technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Socket.io"],
     icon: CheckSquare,
@@ -102,7 +102,7 @@ export const projects: Project[] = [
   {
     id: 7,
     title: "Asset Management System",
-    description: "Enterprise asset tracking system for hardware and software inventory management.",
+    description: "Enterprise asset tracking system for inventory management.",
     category: "mern",
     technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Redux", "Material UI"],
     icon: Laptop,
@@ -140,7 +140,7 @@ export const projects: Project[] = [
   {
     id: 10,
     title: "Instagram Clone",
-    description: "Feature-rich Instagram clone with image uploading, feeds, likes, and comments functionality.",
+    description: "Instagram clone with image uploads, feeds, likes, and comments.",
     category: "react",
     technologies: ["React.js", "Firebase", "Redux", "Styled-Components", "Progressive Web App"],
     icon: Camera,
@@ -152,7 +152,7 @@ export const projects: Project[] = [
   {
     id: 11,
     title: "Netflix Clone",
-    description: "Netflix UI clone with movie recommendations, trailer playback, and responsive design.",
+    description: "Netflix UI clone with recommendations, trailer playback, and responsiveness.",
     category: "react",
     technologies: ["React.js", "Firebase Auth", "TMDB API", "CSS3", "Context API"],
     icon: Film,
@@ -164,7 +164,7 @@ export const projects: Project[] = [
   {
     id: 12,
     title: "Weather Dashboard",
-    description: "Interactive weather application with location-based forecasts and animated weather indicators.",
+    description: "Interactive weather app with location forecasts and animated indicators.",
     category: "react",
     technologies: ["React.js", "OpenWeather API", "Geolocation API", "Framer Motion", "Tailwind CSS"],
     icon: Globe,
@@ -176,7 +176,7 @@ export const projects: Project[] = [
   {
     id: 13,
     title: "Todo App",
-    description: "Sleek, minimalist to-do application with drag-and-drop task organization and deadline reminders.",
+    description: "Minimalist to-do app with drag-and-drop tasks and reminders.",
     category: "react",
     technologies: ["React.js", "Local Storage", "Framer Motion", "CSS3", "Progressive Web App"],
     icon: List,
