@@ -111,30 +111,30 @@ export const projects: Project[] = [
     link: "https://asset-management-demo.vercel.app",
     image: "https://images.unsplash.com/photo-1517292987719-0369a794ec0f?q=80&w=1374&auto=format&fit=crop"
   },
-  {
-    id: 8,
-    title: "Real-time Chat Application",
-    description: "Instant messaging platform with real-time notifications and media sharing capabilities.",
-    category: "mern",
-    technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Socket.io", "Redis"],
-    icon: MessageSquare,
-    color: "#ffffff",
-    github: "https://github.com/esakky",
-    link: "https://chat-app-demo.vercel.app",
-    image: "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?q=80&w=1374&auto=format&fit=crop"
-  },
-  {
-    id: 9,
-    title: "Finance Dashboard",
-    description: "Comprehensive financial analytics dashboard with interactive charts and expense tracking.",
-    category: "mern",
-    technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Chart.js", "Redux"],
-    icon: BarChart,
-    color: "#ffffff",
-    github: "https://github.com/esakky",
-    link: "https://finance-dashboard-demo.vercel.app",
-    image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1470&auto=format&fit=crop"
-  },
+  // {
+  //   id: 8,
+  //   title: "Real-time Chat Application",
+  //   description: "Instant messaging platform with real-time notifications and media sharing capabilities.",
+  //   category: "mern",
+  //   technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Socket.io", "Redis"],
+  //   icon: MessageSquare,
+  //   color: "#ffffff",
+  //   github: "https://github.com/esakky",
+  //   link: "https://chat-app-demo.vercel.app",
+  //   image: "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?q=80&w=1374&auto=format&fit=crop"
+  // },
+  // {
+  //   id: 9,
+  //   title: "Finance Dashboard",
+  //   description: "Comprehensive financial analytics dashboard with interactive charts and expense tracking.",
+  //   category: "mern",
+  //   technologies: ["MongoDB", "Express.js", "React.js", "Node.js", "Chart.js", "Redux"],
+  //   icon: BarChart,
+  //   color: "#ffffff",
+  //   github: "https://github.com/esakky",
+  //   link: "https://finance-dashboard-demo.vercel.app",
+  //   image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=1470&auto=format&fit=crop"
+  // },
   
   // React Projects
   {
